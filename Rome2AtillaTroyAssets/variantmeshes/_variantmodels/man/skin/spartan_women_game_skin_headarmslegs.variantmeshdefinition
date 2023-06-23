@@ -1,0 +1,35 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+	
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_average_body_olive_skinned_headarmslegs.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_body_olive_skinned_headarmslegs.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_average_head1_olive_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_olive_skinned.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_average_head2_olive_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_olive_skinned.rigid_model_v2"/>
+			</SLOT>
+			<SLOT name="sandals">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_sandals1_average_body.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_athletic_body_olive_skinned_headarmslegs.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_body_olive_skinned_headarmslegs.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_athletic_head1_olive_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_olive_skinned.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_athletic_head2_olive_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_olive_skinned.rigid_model_v2"/>
+			</SLOT>
+			<SLOT name="sandals">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_sandals1_athletic_body.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_body_olive_skinned_headarmslegs.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_body_olive_skinned_headarmslegs.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_head1_olive_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_olive_skinned.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_head2_olive_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_olive_skinned.rigid_model_v2"/>
+			</SLOT>
+			<SLOT name="sandals">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_sandals1_athletic_body.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>	
+	
+	</SLOT>
+</VARIANT_MESH>

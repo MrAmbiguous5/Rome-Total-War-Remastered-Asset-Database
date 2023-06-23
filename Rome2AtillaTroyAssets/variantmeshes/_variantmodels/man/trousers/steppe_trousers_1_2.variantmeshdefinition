@@ -1,0 +1,5 @@
+<VARIANT_MESH>
+	<SLOT name="trousers" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/steppe_trousers_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_basic_trousers_01.rigid_model_v2"  mask1="2"  mask2="1" />
+	</SLOT>
+</VARIANT_MESH>

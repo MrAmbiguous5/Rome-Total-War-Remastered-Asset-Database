@@ -1,0 +1,39 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_2_cutoffA.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_2_cutoffA.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_a.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_b.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_c.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_nosleeves.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_2_cutoffA.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_a.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_b.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_c.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_2_cutoffA.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_2_cutoffA.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_a.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_b.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_c.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_2_cutoffA.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_2_cutoffA.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_a.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_b.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_c.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_nosleeves.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_2_cutoffA.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_a.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_b.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/carthaginian_linothorax_c.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

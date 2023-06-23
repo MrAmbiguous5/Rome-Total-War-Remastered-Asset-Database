@@ -1,0 +1,39 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/italian_square_muscled_cuirass_A.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/italian_triple_disc_cuirass_a.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/Italian_Triple_Disk_Cuirass_B.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/italian_square_muscled_cuirass_A.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/italian_triple_disc_cuirass_a.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/Italian_Triple_Disk_Cuirass_B.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1.rigid_model_v2"  mask0="2"  mask1="0"  mask2="1" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/italian_square_muscled_cuirass_A.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/italian_triple_disc_cuirass_a.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/Italian_Triple_Disk_Cuirass_B.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1.rigid_model_v2"  mask0="1"  mask1="2"  mask2="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/italian_square_muscled_cuirass_A.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/italian_triple_disc_cuirass_a.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/Italian_Triple_Disk_Cuirass_B.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/italian_square_muscled_cuirass_A.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/italian_triple_disc_cuirass_a.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/Italian_Triple_Disk_Cuirass_B.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/Italian_Square_Muscled_Cuirass_C.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

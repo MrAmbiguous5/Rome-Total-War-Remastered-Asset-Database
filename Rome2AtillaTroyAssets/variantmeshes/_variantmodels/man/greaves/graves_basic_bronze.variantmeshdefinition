@@ -1,0 +1,5 @@
+<VARIANT_MESH>
+	<SLOT name="trousers" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/greaves/hellenic_basic_greaves_bronze.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

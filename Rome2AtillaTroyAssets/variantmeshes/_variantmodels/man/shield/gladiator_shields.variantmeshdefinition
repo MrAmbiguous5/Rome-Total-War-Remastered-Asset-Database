@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="shields" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/glad_scutum_a.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/shield/roman_early_scutum.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/glad_scutum_a.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/shield/roman_early_scutum.rigid_model_v2"  mask0="1"  mask1="0" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/glad_scutum_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/shield/roman_early_scutum.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/glad_scutum_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/shield/roman_early_scutum.rigid_model_v2"  mask0="2"  mask2="0" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/glad_scutum_c.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/shield/roman_early_scutum.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

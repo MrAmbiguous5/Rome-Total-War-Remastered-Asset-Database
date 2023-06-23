@@ -1,0 +1,25 @@
+<VARIANT_MESH>
+	<SLOT name="shields" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/3c_large_round_shield.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/germanic/3c_barbarian_round_shield_generic_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/briton/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/3c_large_round_shield.rigid_model_v2" >
+			<SLOT name="shields" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/3c_oval_curved_boss.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/3c_oval_curved_long_boss.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/3c_oval_curved_flat_boss.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/3c_large_round_shield.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/germanic/3c_barbarian_round_shield_generic_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/briton/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/3c_large_round_shield.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="shields" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/3c_oval_curved_boss.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/3c_oval_curved_long_boss.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/3c_oval_curved_flat_boss.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/3c_large_round_shield.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/germanic/3c_barbarian_round_shield_generic_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/briton/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/3c_large_round_shield.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="shields" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/3c_oval_curved_boss.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/3c_oval_curved_long_boss.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/3c_oval_curved_flat_boss.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

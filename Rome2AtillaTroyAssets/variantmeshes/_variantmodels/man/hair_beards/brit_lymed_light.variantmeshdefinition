@@ -1,0 +1,15 @@
+<VARIANT_MESH>
+	<SLOT name="beard" probability ="0.75" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_02m_light_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_02l_light_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_02k_light_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_02j_light_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_02i_light_lod1.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="hair" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_01a_lyme_light.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_01b_lyme_light.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_01c_lyme_light.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_01d_lyme_light.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

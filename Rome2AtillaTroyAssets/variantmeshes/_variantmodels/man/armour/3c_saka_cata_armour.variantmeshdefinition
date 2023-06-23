@@ -1,0 +1,19 @@
+<VARIANT_MESH>
+	<SLOT name="armour" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_2.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_skirt_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_skirt_2.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_4.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_2.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_skirt_4.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_skirt_2.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_5.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_2.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_skirt_5.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/3c_saka_cata_skirt_2.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

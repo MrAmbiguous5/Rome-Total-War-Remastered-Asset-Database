@@ -1,0 +1,8 @@
+<VARIANT_MESH>
+	<SLOT name="1" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/leg/glad_leg_l_1.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="2" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/leg/glad_leg_r_1.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

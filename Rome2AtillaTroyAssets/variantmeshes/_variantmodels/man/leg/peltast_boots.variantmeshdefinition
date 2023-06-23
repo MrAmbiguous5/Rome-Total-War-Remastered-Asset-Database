@@ -1,0 +1,7 @@
+<VARIANT_MESH>
+	<SLOT name="trousers" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/leg/hellenic_peltast_boots_01.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/leg/hellenic_peltast_boots_02.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/leg/hellenic_peltast_boots_03.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

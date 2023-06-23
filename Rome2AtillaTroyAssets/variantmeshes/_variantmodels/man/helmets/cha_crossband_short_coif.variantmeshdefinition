@@ -1,0 +1,22 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_crossband_helm_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_crossband_helmet.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_helm_coif.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_crossband_helmet.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_crossband_helmet.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_helm_coif.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

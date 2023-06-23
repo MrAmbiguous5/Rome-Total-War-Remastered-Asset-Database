@@ -1,0 +1,12 @@
+<VARIANT_MESH>
+	<SLOT name="armour" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/att_bel_scale_armour_with_coloured_pteryges_bronze.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/lorica_squamata_sleeveless.rigid_model_v2" >
+			<SLOT name="skirt" />
+			<SLOT name="shoulders" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/att_bel_scale_armour_with_coloured_pteryges_iron.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/lorica_squamata_sleeveless_iron.rigid_model_v2" >
+			<SLOT name="skirt" />
+			<SLOT name="shoulders" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

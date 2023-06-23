@@ -1,0 +1,25 @@
+<VARIANT_MESH>
+	<SLOT name="trousers" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_light_02_cut_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_light_01_cut_01.rigid_model_v2" >
+			<TINT red="0.078431" green="0.054902" blue="0.031373" random_range="0.1" />
+			<TINT red="0.235294" green="0.164706" blue="0.094118" random_range="0.1" />
+			<TINT red="0.015686" green="0.086275" blue="0.015686" random_range="0.1" />
+			<TINT red="0.247059" green="0.247059" blue="0.184314" random_range="0.1" />
+			<TINT red="0.184314" green="0.121569" blue="0.0" random_range="0.1" />
+					<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01.rigid_model_v2" >
+					<TINT red="0.078431" green="0.054902" blue="0.031373" random_range="0.25" />
+					<TINT red="0.156863" green="0.109804" blue="0.062745" random_range="0.25" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_light_01_cut_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_light_01_cut_01.rigid_model_v2" >
+			<TINT red="0.078431" green="0.054902" blue="0.031373" random_range="0.1" />
+			<TINT red="0.235294" green="0.164706" blue="0.094118" random_range="0.1" />
+			<TINT red="0.278431" green="0.184314" blue="0.0" random_range="0.1" />
+			<TINT red="0.372549" green="0.372549" blue="0.278431" random_range="0.1" />
+			<TINT red="0.007843" green="0.043137" blue="0.007843" random_range="0.1" />
+					<SLOT name="shoes" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

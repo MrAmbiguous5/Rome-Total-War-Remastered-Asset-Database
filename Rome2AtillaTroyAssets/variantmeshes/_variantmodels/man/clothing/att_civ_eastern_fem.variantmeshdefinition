@@ -1,0 +1,35 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/civilians/female/civ_female_dress.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/skin/civilians/female/civ_female_dress.rigid_model_v2" >
+			<TINT red="0.952941" green="0.945098" blue="0.882353" random_range="0.2" />
+			<TINT red="0.862745" green="0.937255" blue="1.0" random_range="0.2" />
+			<TINT red="0.278431" green="0.333333" blue="0.333333" random_range="0.2" />
+			<TINT red="0.4" green="0.4" blue="0.298039" random_range="0.2" />
+			<TINT red="0.32549" green="0.133333" blue="0.278431" random_range="0.2" />
+			<TINT red="0.611765" green="0.580392" blue="0.490196" random_range="0.2" />
+			<TINT red="0.035294" green="0.035294" blue="0.098039" random_range="0.2" />
+					<SLOT name="armour" probability ="0.5" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/civilians/female/civ_female_cowl.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/skin/civilians/female/civ_female_cowl.rigid_model_v2" >
+					<TINT red="0.952941" green="0.945098" blue="0.882353" random_range="0.2" />
+					<TINT red="0.278431" green="0.333333" blue="0.333333" random_range="0.2" />
+					<TINT red="0.207843" green="0.082353" blue="0.176471" random_range="0.2" />
+					<TINT red="0.070588" green="0.070588" blue="0.172549" random_range="0.2" />
+					<TINT red="0.792157" green="0.792157" blue="0.701961" random_range="0.2" />
+					<TINT red="0.862745" green="0.937255" blue="1.0" random_range="0.2" />
+				</VARIANT_MESH>
+			</SLOT>
+			<SLOT name="belts" />
+			<SLOT name="trousers" probability ="1.0" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/civilians/female/civ_female_overcloak.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/skin/civilians/female/civ_female_overcloak.rigid_model_v2" >
+					<TINT red="0.862745" green="0.937255" blue="1.0" random_range="0.2" />
+					<TINT red="0.952941" green="0.945098" blue="0.882353" random_range="0.2" />
+					<TINT red="0.278431" green="0.333333" blue="0.333333" random_range="0.2" />
+					<TINT red="0.4" green="0.4" blue="0.298039" random_range="0.2" />
+					<TINT red="0.356863" green="0.141176" blue="0.305882" random_range="0.2" />
+					<TINT red="0.611765" green="0.580392" blue="0.490196" random_range="0.2" />
+					<TINT red="0.05098" green="0.05098" blue="0.133333" random_range="0.2" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

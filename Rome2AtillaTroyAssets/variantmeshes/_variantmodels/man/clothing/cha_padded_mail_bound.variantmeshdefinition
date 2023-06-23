@@ -1,0 +1,25 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH>
+			<SLOT name="armour" >
+				<VARIANT_MESH>
+					<SLOT name="armour" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/nordic_padded_01_tint.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/armour/nordic_padded_01_tint.rigid_model_v2" >
+							<TINT red="0.952941" green="0.945098" blue="0.882353" random_range="0.33" />
+							<TINT red="0.819608" green="0.643137" blue="0.196078" random_range="0.33" />
+							<TINT red="0.333333" green="0.25098" blue="0.211765" random_range="0.33" />
+													<SLOT name="skirt" />
+							<SLOT name="shoulders" />
+						</VARIANT_MESH>
+					</SLOT>
+				</VARIANT_MESH>
+			</SLOT>
+			<SLOT name="belts" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/accessories/att_roman_belts.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/cha_bound_trousers.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

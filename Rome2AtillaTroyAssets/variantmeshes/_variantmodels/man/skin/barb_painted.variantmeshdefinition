@@ -1,0 +1,16 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp01_shape7.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp02_shape8.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp03_shape9.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp04_shape10.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp05_shape7.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp06_shape8.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp07_shape9.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp08_shape14.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp09_shape15.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp10_shape14.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp11_shape17.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_painted_skinbp12_shape18.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_uppertorso_bearded_skinbb01_shape1.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

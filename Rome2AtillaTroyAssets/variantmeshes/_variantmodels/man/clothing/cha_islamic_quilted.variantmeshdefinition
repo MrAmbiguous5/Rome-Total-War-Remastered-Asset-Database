@@ -1,0 +1,21 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH>
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/att_cha_quilted_tunic.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/att_cha_quilted_tunic.rigid_model_v2" >
+					<TINT red="0.87451" green="0.87451" blue="0.87451" random_range="0.0" />
+				</VARIANT_MESH>
+			</SLOT>
+			<SLOT name="belts" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_cha_fabric_belt.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_basic_trousers_01_cut.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_cha_fabric_belt.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_basic_trousers_01_cut.rigid_model_v2"  mask0="1"  mask1="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_cha_fabric_belt.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_basic_trousers_01_cut.rigid_model_v2"  mask0="2"  mask2="0" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/eastern_trousers_02_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_basic_trousers_01_cut.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/eastern_trousers_02_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_basic_trousers_01_cut.rigid_model_v2"  mask0="1"  mask1="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/eastern_trousers_02_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_basic_trousers_01_cut.rigid_model_v2"  mask0="2"  mask2="0" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

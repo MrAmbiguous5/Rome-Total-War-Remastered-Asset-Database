@@ -1,0 +1,10 @@
+<VARIANT_MESH>
+	<SLOT name="trousers" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/steppe_trousers_06_cut.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/steppe_trousers_05_cut.rigid_model_v2" >
+			<TINT red="0.078431" green="0.054902" blue="0.031373" random_range="0.2" />
+			<TINT red="0.156863" green="0.109804" blue="0.062745" random_range="0.2" />
+			<TINT red="0.235294" green="0.164706" blue="0.094118" random_range="0.2" />
+			<TINT red="0.023529" green="0.015686" blue="0.011765" random_range="0.2" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

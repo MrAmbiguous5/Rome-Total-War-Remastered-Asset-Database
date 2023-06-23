@@ -1,0 +1,8 @@
+<VARIANT_MESH>
+	<SLOT name="weapons" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/roman_standard_eagle_01_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/roman_standard_gold_01_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/roman_standard_gold_02_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/roman_standard_gold_03_lod1.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

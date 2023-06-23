@@ -1,0 +1,7 @@
+<VARIANT_MESH>
+	<SLOT name="shields" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/3c_roman_auxiliary_shield.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/eastern/3c_sassanid_gyanavspar_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/eastern/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/3c_roman_auxiliary_shield.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/3c_roman_auxiliary_shield.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/eastern/3c_sassanid_gyanavspar_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/eastern/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/3c_roman_auxiliary_shield.rigid_model_v2"  mask0="1"  mask1="0" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/3c_roman_auxiliary_shield.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/eastern/3c_sassanid_gyanavspar_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/eastern/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/3c_roman_auxiliary_shield.rigid_model_v2"  mask0="2"  mask2="0" />
+	</SLOT>
+</VARIANT_MESH>

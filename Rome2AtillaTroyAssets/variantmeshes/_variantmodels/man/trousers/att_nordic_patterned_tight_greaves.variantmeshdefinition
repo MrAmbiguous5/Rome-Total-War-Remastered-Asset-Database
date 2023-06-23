@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="trousers" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/celtic_tartan_trousers_01_cut_02a.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_tartan_trousers_01_cut_02a.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/celtic_tartan_trousers_01_cut_02a.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_tartan_trousers_01_cut_02a.rigid_model_v2"  mask0="2"  mask1="0"  mask2="1" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/celtic_tartan_trousers_01_cut_02a.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_tartan_trousers_01_cut_02a.rigid_model_v2"  mask0="1"  mask1="0" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/celtic_tartan_trousers_01_cut_02a.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_tartan_trousers_01_cut_02a.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/celtic_tartan_trousers_01_cut_02a.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_tartan_trousers_01_cut_02a.rigid_model_v2"  mask0="2"  mask1="0"  mask2="1" />
+	</SLOT>
+</VARIANT_MESH>

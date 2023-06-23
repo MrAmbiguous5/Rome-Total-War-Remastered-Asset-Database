@@ -1,0 +1,8 @@
+<VARIANT_MESH>
+	<SLOT name="beard" probability ="0.6" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/att_eas_beard_light.VariantMeshDefinition" />
+	</SLOT>
+	<SLOT name="hair" >
+		<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/hair_beards/att_eas_long_light.VariantMeshDefinition" />
+	</SLOT>
+</VARIANT_MESH>

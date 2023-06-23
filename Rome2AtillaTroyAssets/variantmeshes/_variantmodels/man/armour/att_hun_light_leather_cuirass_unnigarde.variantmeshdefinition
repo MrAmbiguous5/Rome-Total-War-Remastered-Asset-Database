@@ -1,0 +1,22 @@
+<VARIANT_MESH>
+	<SLOT name="armour" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hun_light_leather_cuirass_01.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/armour/nomadic_heavy_leather_01.rigid_model_v2" >
+			<TINT red="0.062745" green="0.047059" blue="0.023529" random_range="0.5" />
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.5" />
+					<SLOT name="skirt" />
+			<SLOT name="shoulders" probability ="0.7" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hun_light_leather_cuirass_02.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/armour/nomadic_heavy_leather_01.rigid_model_v2" >
+			<TINT red="0.062745" green="0.047059" blue="0.023529" random_range="0.5" />
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.5" />
+					<SLOT name="skirt" />
+			<SLOT name="shoulders" probability ="0.7" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hun_light_leather_cuirass_03.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/armour/nomadic_heavy_leather_01.rigid_model_v2" >
+			<TINT red="0.062745" green="0.047059" blue="0.023529" random_range="0.5" />
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.5" />
+					<SLOT name="skirt" />
+			<SLOT name="shoulders" probability ="0.7" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

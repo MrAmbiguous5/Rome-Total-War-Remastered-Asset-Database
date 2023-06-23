@@ -1,0 +1,5 @@
+<VARIANT_MESH>
+	<SLOT name="shields" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/hellenic_pikemen_shield.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/hellenic_small_round.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

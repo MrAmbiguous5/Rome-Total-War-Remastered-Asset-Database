@@ -1,0 +1,29 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/iberian_tunic_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/iberian_tunic_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/iberian_tunic_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2"  mask0="1"  mask1="2"  mask2="0" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/iberian_tunic_3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/iberian_tunic_4.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

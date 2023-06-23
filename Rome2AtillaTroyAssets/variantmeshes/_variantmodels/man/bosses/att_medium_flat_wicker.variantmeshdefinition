@@ -1,0 +1,8 @@
+<VARIANT_MESH>
+	<SLOT name="boss" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/africa_nomadic_ornate_boss_iron_small_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/africa_nomadic_ornate_boss_iron_small_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/africa_small_curved_boss.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/africa_small_curved_flat_boss.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,42 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_sardi_tunic_knife/inv_sardi_tunic_knife.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_tunic_knife/inv_sardi_tunic_knife.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour/inv_sardi_leather_armour.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour/inv_sardi_leather_armour.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour_shoulders/inv_sardi_leather_armour_shoulders.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour/inv_sardi_leather_armour.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour/inv_sardi_leather_armour.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour/inv_sardi_leather_armour.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour_shoulders/inv_sardi_leather_armour_shoulders.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour/inv_sardi_leather_armour.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_sardi_tunic_knife/inv_sardi_tunic_knife.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_tunic_knife/inv_sardi_tunic_knife.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour/inv_sardi_leather_armour.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour/inv_sardi_leather_armour.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour_shoulders/inv_sardi_leather_armour_shoulders.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_leather_armour/inv_sardi_leather_armour.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/3c_celtic_heavy_leather_armour_long_plain_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/3c_celtic_heavy_leather_armour_long_plain_01.rigid_model_v2"  mask0="2"  mask1="0"  mask2="1" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/3c_celtic_belt.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/3c_celtic_heavy_leather_armour_long_plain_brown.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/3c_celtic_heavy_leather_armour_long_plain_01.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/3c_celtic_belt.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

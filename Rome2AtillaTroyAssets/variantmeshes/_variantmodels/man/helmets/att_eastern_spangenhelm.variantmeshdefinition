@@ -1,0 +1,44 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/eastern_spangenhelm.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/helmets/eastern_ridge_helmet_01.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" probability ="0.5" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/cheek_half_plates.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+			</SLOT>
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/eastern_spangenhelm.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/helmets/eastern_ridge_helmet_01.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" probability ="0.5" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/cheek_half_plates.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+			</SLOT>
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/eastern_spangenhelm.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/helmets/eastern_ridge_helmet_01.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" probability ="0.5" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/cheek_half_plates.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+			</SLOT>
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/eastern_spangenhelm.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/helmets/eastern_ridge_helmet_01.rigid_model_v2" >
+			<TINT red="0.952941" green="0.945098" blue="0.882353" random_range="0.25" />
+			<TINT red="0.862745" green="0.937255" blue="1.0" random_range="0.25" />
+			<TINT red="0.807843" green="0.807843" blue="0.807843" random_range="0.25" />
+			<TINT red="1.0" green="0.988235" blue="0.815686" random_range="0.25" />
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" probability ="0.5" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/cheek_half_plates.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+			</SLOT>
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

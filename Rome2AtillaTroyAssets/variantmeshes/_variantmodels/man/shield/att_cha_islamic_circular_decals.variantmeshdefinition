@@ -1,0 +1,7 @@
+<VARIANT_MESH>
+	<SLOT name="shields" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/att_cha_islamic_round_curved_shield_1.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/islamic/islamic_circular_1_diffuse" >
+			<SLOT name="boss" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

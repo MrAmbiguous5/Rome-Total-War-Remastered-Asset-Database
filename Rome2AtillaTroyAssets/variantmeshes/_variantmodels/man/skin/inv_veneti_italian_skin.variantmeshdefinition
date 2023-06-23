@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/roman_skin2_shape2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/roman_skin2_shape2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/roman_skin5_shape5.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/roman_skin2_shape2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/roman_skin6_shape6.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/roman_skin2_shape2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/roman_skin11_shape11.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/roman_skin2_shape2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/roman_skin13_shape13.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/roman_skin2_shape2.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,13 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb10_shape10.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb11_shape11.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb12_shape12.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb13_shape13.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb14_shape14.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb15_shape15.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb16_shape16.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb17_shape17.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb18_shape18.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

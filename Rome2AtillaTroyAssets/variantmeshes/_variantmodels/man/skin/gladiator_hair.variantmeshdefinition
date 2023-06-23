@@ -1,0 +1,49 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb10_shape10.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" >
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_03.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_03.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="beard" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb11_shape11.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" >
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_03.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_03.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="beard" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb12_shape12.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" >
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_03.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_03.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="beard" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb13_shape13.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" >
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_03.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_03.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="beard" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_full_beardless_skinbb14_shape14.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_full_bearded_skinbb01_shape1.rigid_model_v2" >
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_03.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_03.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="beard" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,13 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH >
+			<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_roman_heavy_scale_sleeveless_east_cloak.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" />
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_eastern_cavalry_trousers.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

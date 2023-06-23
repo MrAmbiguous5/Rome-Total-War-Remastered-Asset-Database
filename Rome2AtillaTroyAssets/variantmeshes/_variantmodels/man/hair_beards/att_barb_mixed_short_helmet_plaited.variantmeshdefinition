@@ -1,0 +1,43 @@
+<VARIANT_MESH>
+	<SLOT name="beard" probability ="0.8" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_01h_blonde.rigid_model_v2" >
+			<SLOT name="hair" >
+					<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_02_helmet.rigid_model_v2" >
+					<TINT red="0.368627" green="0.227451" blue="0.133333" random_range="0.0" />
+					</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>	
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_01h.rigid_model_v2" >
+			<TINT red="0.164706" green="0.082353" blue="0.058824" random_range="0.0" />
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_02_helmet.rigid_model_v2" >
+				<TINT red="0.164706" green="0.082353" blue="0.058824" random_range="0.0" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_01h.rigid_model_v2" >
+			<TINT red="1.0" green="0.87451" blue="0.580392" random_range="0.0" />
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_02_helmet.rigid_model_v2" >
+				<TINT red="1.0" green="0.87451" blue="0.580392" random_range="0.0" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_01h.rigid_model_v2" >
+			<TINT red="0.741176" green="0.313726" blue="0.172549" random_range="0.0" />
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_02_helmet.rigid_model_v2" >
+				<TINT red="0.741176" green="0.313726" blue="0.172549" random_range="0.0" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_01h.rigid_model_v2" >
+			<TINT red="0.031373" green="0.031373" blue="0.031373" random_range="0.0" />
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_02_helmet.rigid_model_v2" >
+				<TINT red="0.031373" green="0.031373" blue="0.031373" random_range="0.0" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>				
+	</SLOT>
+</VARIANT_MESH>

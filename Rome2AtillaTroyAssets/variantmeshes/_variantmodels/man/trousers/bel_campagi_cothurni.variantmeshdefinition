@@ -1,0 +1,16 @@
+<VARIANT_MESH>
+	<SLOT name="trousers" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_bel_campagi_trousers_1_cut_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_heavy_cut_02.rigid_model_v2" >
+			<SLOT name="shoes" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_bel_campagi_trousers_2_cut_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_heavy_cut_02.rigid_model_v2" >
+			<SLOT name="shoes" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_bel_cothurni_trousers_cut_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_heavy_cut_02.rigid_model_v2" >
+			<SLOT name="shoes" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_bel_campagi_trousers_1_cut_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_heavy_cut_02.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="shoes" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

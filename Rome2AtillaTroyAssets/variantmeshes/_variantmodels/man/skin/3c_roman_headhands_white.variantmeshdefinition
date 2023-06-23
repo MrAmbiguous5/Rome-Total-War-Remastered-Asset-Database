@@ -1,0 +1,12 @@
+<VARIANT_MESH>
+	<SLOT name="type" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/3c_roman_headhands_skin1_shape1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_headhands_base_skingre6_shape6.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/3c_roman_headhands_skin2_shape2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_headhands_base_skingre6_shape6.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/3c_roman_headhands_skin3_shape3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_headhands_base_skingre6_shape6.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/3c_roman_headhands_skin5_shape5.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_headhands_base_skingre6_shape6.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/3c_roman_headhands_skin11_shape11.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_headhands_base_skingre6_shape6.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/3c_roman_headhands_skin12_shape12.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_headhands_base_skingre6_shape6.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/3c_roman_headhands_skin13_shape13.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_headhands_base_skingre6_shape6.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/3c_roman_headhands_skin15_shape15.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_headhands_base_skingre6_shape6.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

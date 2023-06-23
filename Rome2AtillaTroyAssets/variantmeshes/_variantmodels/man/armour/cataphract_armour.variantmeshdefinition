@@ -1,0 +1,34 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/cataphract_armour_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/roman_lorica_hamata1.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_04.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_03_chain.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/cataphract_llamelar_armour_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/roman_lorica_hamata1.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_04.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_03_chain.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/cataphract_scale_armour.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/roman_lorica_hamata1.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_01_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_03_chain.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_04_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/arm_armour/cataphract_arm_armour_02.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

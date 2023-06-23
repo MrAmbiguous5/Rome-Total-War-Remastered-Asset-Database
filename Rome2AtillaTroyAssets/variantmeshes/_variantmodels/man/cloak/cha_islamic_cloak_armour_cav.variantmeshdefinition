@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="cloaks" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/att_cha_eastern_cloak_1__armour_cav.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/cloak/att_cha_eastern_cloak_1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/att_cha_eastern_cloak_2__armour_cav.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/cloak/att_cha_eastern_cloak_1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/att_cha_eastern_cloak_3__armour_cav.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/cloak/att_cha_eastern_cloak_1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/att_cha_eastern_cloak_1__armour_cav.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/cloak/att_cha_eastern_cloak_1.rigid_model_v2"  mask0="2"  mask2="0" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/att_cha_eastern_cloak_3__armour_cav.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/cloak/att_cha_eastern_cloak_1.rigid_model_v2"  mask0="1"  mask1="0" />
+	</SLOT>
+</VARIANT_MESH>

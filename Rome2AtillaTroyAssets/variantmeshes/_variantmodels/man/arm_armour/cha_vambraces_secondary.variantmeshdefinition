@@ -1,0 +1,12 @@
+<VARIANT_MESH>
+	<SLOT name="1" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/att_cha_carolingian_vambrace_left.rigid_model_v2"  mask0="1"  mask1="0" />
+	</SLOT>
+	<SLOT name="2" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/att_cha_carolingian_vambrace_right.rigid_model_v2"  mask0="1"  mask1="0" />
+	</SLOT>
+	<SLOT name="3" />
+	<SLOT name="4" />
+	<SLOT name="5" />
+	<SLOT name="6" />
+</VARIANT_MESH>

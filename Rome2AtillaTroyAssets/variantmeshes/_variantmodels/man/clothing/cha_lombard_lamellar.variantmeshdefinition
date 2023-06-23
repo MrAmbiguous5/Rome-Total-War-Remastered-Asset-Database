@@ -1,0 +1,69 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/att_celts_tunic_2_cut_03_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_iron.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_bronze.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_silvered.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_belts_for_iron_lamellar_corselet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_germanic_basic_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/att_celts_tunic_2_cut_03_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_iron.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_silvered.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_bronze.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_belts_for_iron_lamellar_corselet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_germanic_basic_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/att_celts_tunic_2_cut_03_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_iron.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_silvered.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_bronze.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_belts_for_iron_lamellar_corselet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_germanic_basic_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/att_celts_tunic_2_cut_03_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_iron.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_bronze.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_silvered.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_belts_for_iron_lamellar_corselet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_germanic_basic_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/att_celts_tunic_2_cut_03_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_iron.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_silvered.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lamellar_corselet_bronze.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_belts_for_iron_lamellar_corselet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_germanic_basic_trousers_cut.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

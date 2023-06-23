@@ -1,0 +1,29 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/hellenic_tunic1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/illyrian_chest_disk_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_normal" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/illyrian_chest_disk_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_normal" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/hellenic_tunic1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/illyrian_chest_disk_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_normal" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/hellenic_tunic1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/illyrian_chest_disk_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_silver_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_normal" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/illyrian_chest_disk_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_silver_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/hellenic/circular_normal" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

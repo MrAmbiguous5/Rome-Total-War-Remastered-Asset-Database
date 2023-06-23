@@ -1,0 +1,74 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/steppe_tunic_01_cut_05.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2" >
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.2" />
+			<TINT red="0.235294" green="0.180392" blue="0.094118" random_range="0.2" />
+			<TINT red="0.352941" green="0.266667" blue="0.141176" random_range="0.2" />
+			<TINT red="0.172549" green="0.172549" blue="0.101961" random_range="0.2" />
+			<TINT red="0.090196" green="0.152941" blue="0.090196" random_range="0.2" />
+					<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_nomadic_light_leather_lamellar.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" />
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_nomadic_trousers_camo.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/steppe_tunic_01_cut_05.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2"  mask0="1"  mask1="0" >
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.2" />
+			<TINT red="0.235294" green="0.180392" blue="0.094118" random_range="0.2" />
+			<TINT red="0.352941" green="0.266667" blue="0.141176" random_range="0.2" />
+			<TINT red="0.133333" green="0.133333" blue="0.078431" random_range="0.2" />
+			<TINT red="0.082353" green="0.137255" blue="0.082353" random_range="0.2" />
+					<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_nomadic_light_leather_lamellar.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" />
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_nomadic_trousers_camo.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/steppe_tunic_02_cut_05.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2" >
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.2" />
+			<TINT red="0.235294" green="0.180392" blue="0.094118" random_range="0.2" />
+			<TINT red="0.352941" green="0.266667" blue="0.141176" random_range="0.2" />
+			<TINT red="0.137255" green="0.137255" blue="0.078431" random_range="0.2" />
+			<TINT red="0.082353" green="0.137255" blue="0.082353" random_range="0.2" />
+					<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_nomadic_light_leather_lamellar.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" />
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_nomadic_trousers_camo.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/steppe_tunic_02_cut_05.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2"  mask0="1"  mask1="0" >
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.2" />
+			<TINT red="0.235294" green="0.180392" blue="0.094118" random_range="0.2" />
+			<TINT red="0.352941" green="0.266667" blue="0.141176" random_range="0.2" />
+			<TINT red="0.137255" green="0.137255" blue="0.082353" random_range="0.2" />
+			<TINT red="0.082353" green="0.137255" blue="0.082353" random_range="0.2" />
+					<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_nomadic_light_leather_lamellar.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" />
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_nomadic_trousers_camo.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/steppe_tunic_02_cut_05.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2"  mask0="2"  mask1="0"  mask2="1" >
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.2" />
+			<TINT red="0.235294" green="0.180392" blue="0.094118" random_range="0.2" />
+			<TINT red="0.352941" green="0.266667" blue="0.141176" random_range="0.2" />
+			<TINT red="0.137255" green="0.137255" blue="0.082353" random_range="0.2" />
+			<TINT red="0.082353" green="0.137255" blue="0.082353" random_range="0.2" />
+					<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_nomadic_light_leather_lamellar.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" />
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_nomadic_trousers_camo.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

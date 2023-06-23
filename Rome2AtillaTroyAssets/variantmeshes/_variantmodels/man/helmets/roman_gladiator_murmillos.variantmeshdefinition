@@ -1,0 +1,10 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/roman_gladiator_murmillo3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/roman_italic.rigid_model_v2" >
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/roman_gladiator_murmillo2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/roman_italic.rigid_model_v2" >
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/roman_gladiator_murmillo1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/roman_italic.rigid_model_v2" >
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

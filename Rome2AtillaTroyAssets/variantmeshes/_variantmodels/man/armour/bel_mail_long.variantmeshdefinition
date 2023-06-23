@@ -1,0 +1,10 @@
+<VARIANT_MESH>
+	<SLOT name="armour" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/heavy_chainmail_armour_top_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/heavy_chainmail_armour_top_01_cut1.rigid_model_v2" >
+			<SLOT name="skirt" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/heavy_chainmail_armour_down_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/heavy_chainmail_armour_down_01_cut1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="shoulders" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

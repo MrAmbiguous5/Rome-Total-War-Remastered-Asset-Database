@@ -1,0 +1,22 @@
+<VARIANT_MESH>
+	<SLOT name="armour" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/lorica_squamata_heavy_sleeveless_bronze_01.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/armour/lorica_squamata_heavy_sleeveless_bronze_01.rigid_model_v2" >
+			<SLOT name="skirt" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/light_chainmail_armour_down_01_cut3.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/light_chainmail_armour_down_01_cut4.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+			</SLOT>
+			<SLOT name="shoulders" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/light_chainmail_armour_top_01_cut5.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/lorica_squamata_heavy_sleeveless_iron_01.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/armour/lorica_squamata_heavy_sleeveless_iron_01.rigid_model_v2" >
+			<SLOT name="skirt" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/light_chainmail_armour_down_01_cut3.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/light_chainmail_armour_down_01_cut4.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+			</SLOT>
+			<SLOT name="shoulders" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/light_chainmail_armour_top_01_cut5.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

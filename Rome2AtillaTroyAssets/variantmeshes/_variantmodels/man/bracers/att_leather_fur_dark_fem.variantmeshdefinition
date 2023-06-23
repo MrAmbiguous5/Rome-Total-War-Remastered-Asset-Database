@@ -1,0 +1,8 @@
+<VARIANT_MESH>
+	<SLOT name="left_bracer" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bracers/fur_bracer_left_02_fem.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="right_bracer" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bracers/fur_bracer_right_02_fem.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,16 @@
+<VARIANT_MESH>
+	<SLOT name="1" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/props/briton_torc_a_gold.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/props/briton_torc_b_gold.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/props/briton_torc_c_gold.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="2" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/props/briton_armlet_gold.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/props/briton_bracelet_ring_a_gold.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/props/briton_bracelet_ring_b_gold.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="3" />
+	<SLOT name="4" />
+	<SLOT name="5" />
+	<SLOT name="6" />
+</VARIANT_MESH>

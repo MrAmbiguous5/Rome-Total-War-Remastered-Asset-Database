@@ -1,0 +1,22 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/roman_officer_infantry_helmet_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/helmets/generic_spangenhelm_light.rigid_model_v2" >
+			<SLOT name="top_crests" attach_point="crest_centre" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/crests/att_ridge_long.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/roman_officer_infantry_helmet_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/helmets/generic_spangenhelm_light.rigid_model_v2" >
+			<SLOT name="top_crests" attach_point="crest_centre" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/crests/att_ridge_long.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

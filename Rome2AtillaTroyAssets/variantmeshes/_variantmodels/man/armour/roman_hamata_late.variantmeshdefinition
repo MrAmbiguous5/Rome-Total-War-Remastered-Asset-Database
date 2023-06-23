@@ -1,0 +1,5 @@
+<VARIANT_MESH>
+	<SLOT name="armour" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/roman_lorica_hamata2.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_headhandslegs_beardless_skinbb07_shape7.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_headhandslegs_beardless_skinbb07_shape7.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_headhandslegs_beardless_skinbb08_shape8.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_headhandslegs_beardless_skinbb07_shape7.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_headhandslegs_beardless_skinbb09_shape9.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_headhandslegs_beardless_skinbb07_shape7.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_headhandslegs_beardless_skinbb11_shape11.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_headhandslegs_beardless_skinbb07_shape7.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/barb_headhandslegs_beardless_skinbb12_shape12.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/barb_headhandslegs_beardless_skinbb07_shape7.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

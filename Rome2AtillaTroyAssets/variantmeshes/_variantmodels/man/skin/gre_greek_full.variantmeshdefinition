@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre1_shape1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre2_shape2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre2_shape2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre2_shape2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre3_shape3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre2_shape2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre5_shape5.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre2_shape2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre6_shape6.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre2_shape2.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

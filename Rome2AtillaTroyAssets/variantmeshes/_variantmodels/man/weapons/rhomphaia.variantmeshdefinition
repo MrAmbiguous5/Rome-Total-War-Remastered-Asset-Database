@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="weapons" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/rhomphaia_1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/rhomphaia_2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/rhomphaia_3.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/rhomphaia_4.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/rhomphaia_5.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

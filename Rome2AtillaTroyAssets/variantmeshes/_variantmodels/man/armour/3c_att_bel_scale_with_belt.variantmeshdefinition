@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="armour" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/3c_att_bel_scale_pteruges.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/3c_att_bel_scale_pteruges.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/3c_lb_wide_belt_01.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

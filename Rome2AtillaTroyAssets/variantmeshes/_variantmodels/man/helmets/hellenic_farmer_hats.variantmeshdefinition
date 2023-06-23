@@ -1,0 +1,28 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/hellenic_farmer_hat.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/celtic_leather_helmet_01.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/hellenic_farmer_hat_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/celtic_leather_helmet_01.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/hellenic_farmer_hat_3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/celtic_leather_helmet_01.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/hellenic_farmer_hat_4.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/celtic_leather_helmet_01.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/hellenic_farmer_hat_5.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/celtic_leather_helmet_01.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/hellenic_farmer_hat_6.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/celtic_leather_helmet_01.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

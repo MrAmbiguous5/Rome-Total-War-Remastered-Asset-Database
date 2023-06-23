@@ -1,0 +1,31 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/egyptian_tunic_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/egyptian_tunic_01.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/egyptian_tunic_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/egyptian_tunic_01.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/egyptian_tunic_03.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/egyptian_tunic_01.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/egyptian_armour_1.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

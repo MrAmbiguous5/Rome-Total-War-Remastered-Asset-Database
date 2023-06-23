@@ -1,0 +1,26 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_average_body_pale_skinned_headhands.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_body_pale_skinned_headhands.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_average_head1_pale_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_pale_skinned.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_average_head2_pale_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_pale_skinned.rigid_model_v2"/>
+			</SLOT>
+		</VARIANT_MESH>
+		
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_athletic_body_pale_skinned_headhands.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_body_pale_skinned_headhands.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_athletic_head1_pale_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_pale_skinned.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_athletic_head2_pale_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_pale_skinned.rigid_model_v2"/>
+			</SLOT>
+		</VARIANT_MESH>
+	
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_body_pale_skinned_headhands.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_body_pale_skinned_headhands.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_head1_pale_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_pale_skinned.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_head2_pale_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_pale_skinned.rigid_model_v2"/>
+			</SLOT>
+		</VARIANT_MESH>
+		
+	</SLOT>
+</VARIANT_MESH>

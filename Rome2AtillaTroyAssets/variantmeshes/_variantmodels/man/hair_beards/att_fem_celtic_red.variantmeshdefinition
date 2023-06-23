@@ -1,0 +1,13 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/germanic_fem_hairstyle_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/hair_beards/hair/germanic_fem_hairstyle_01.rigid_model_v2" >
+			<TINT red="0.403922" green="0.215686" blue="0.062745" random_range="0.0" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/germanic_fem_hairstyle_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/hair_beards/hair/germanic_fem_hairstyle_01.rigid_model_v2" >
+			<TINT red="0.403922" green="0.215686" blue="0.062745" random_range="0.0" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_celts_celtic_fem_hairstyle_03.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_celts_celtic_fem_hairstyle_03.rigid_model_v2" >
+			<TINT red="0.403922" green="0.215686" blue="0.062745" random_range="0.0" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

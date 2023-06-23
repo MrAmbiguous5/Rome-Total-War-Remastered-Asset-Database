@@ -1,0 +1,29 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/inv_samnite_tunic/inv_samnite_tunic.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/inv_samnite_tunic/inv_samnite_tunic.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/inv_samnite_tunic/inv_samnite_tunic_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/inv_samnite_tunic/inv_samnite_tunic.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/inv_samnite_tunic/inv_samnite_tunic_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/inv_samnite_tunic/inv_samnite_tunic.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_italic_tunic_greek_pattern/inv_italic_tunic_greek_pattern.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/inv_samnite_tunic/inv_samnite_tunic.rigid_model_v2"  mask1="2"  mask2="1" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_italic_tunic_greek_pattern/inv_italic_tunic_greek_pattern.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/inv_samnite_tunic/inv_samnite_tunic.rigid_model_v2"  mask0="1"  mask1="2"  mask2="0" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

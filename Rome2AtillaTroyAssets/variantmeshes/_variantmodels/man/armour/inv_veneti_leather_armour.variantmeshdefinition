@@ -1,0 +1,33 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1_cut.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_italic_linothorax/inv_italic_linothorax.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_italic_linothorax/inv_italic_linothorax.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1_cut.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_italic_linothorax/inv_italic_linothorax.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_italic_linothorax/inv_italic_linothorax.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_veneti_linothorax/inv_veneti_linothorax.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_veneti_linothorax/inv_veneti_linothorax.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_veneti_linothorax/inv_veneti_linothorax.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_veneti_linothorax/inv_veneti_linothorax.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_etruscan_cuirass/inv_etruscan_cuirass.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_veneti_linothorax/inv_veneti_linothorax.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,28 @@
+<VARIANT_MESH>
+	<SLOT name="trousers" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_bel_elephant_feet_trousers_a_cut_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_heavy_cut_02.rigid_model_v2" >
+			<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_bel_roman_shoe_03_cut_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_bel_roman_shoe_04_cut_01.rigid_model_v2"  mask0="1"  mask1="2"  mask2="0" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_bel_elephant_feet_trousers_a_cut_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_heavy_cut_02.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_bel_roman_shoe_03_cut_01.rigid_model_v2"  mask0="1"  mask1="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_bel_roman_shoe_04_cut_01.rigid_model_v2"  mask0="1"  mask1="0" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_bel_elephant_feet_trousers_b_cut_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_heavy_cut_02.rigid_model_v2" >
+			<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_bel_roman_shoe_03_cut_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_bel_roman_shoe_04_cut_01.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_bel_elephant_feet_trousers_b_cut_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_heavy_cut_02.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_bel_roman_shoe_03_cut_01.rigid_model_v2"  mask0="1"  mask1="0" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_bel_roman_shoe_04_cut_01.rigid_model_v2"  mask1="2"  mask2="1" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

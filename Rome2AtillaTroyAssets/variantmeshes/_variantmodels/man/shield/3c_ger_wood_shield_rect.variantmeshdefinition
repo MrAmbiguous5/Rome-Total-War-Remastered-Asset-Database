@@ -1,0 +1,7 @@
+<VARIANT_MESH>
+	<SLOT name="shields" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/germanic_wood_shield_long_a.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/germanic/3c_germanic_wooden_rect_shield"  decal_normal="VariantMeshes/_VariantModels/man/patterns/germanic/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/germanic_wood_shield_long_a.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/germanic_wood_shield_long_b.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/germanic/3c_germanic_wooden_rect_shield"  decal_normal="VariantMeshes/_VariantModels/man/patterns/germanic/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/germanic_wood_shield_long_a.rigid_model_v2"  mask0="1"  mask1="0" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/germanic_wood_shield_long_c.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/germanic/3c_germanic_wooden_rect_shield"  decal_normal="VariantMeshes/_VariantModels/man/patterns/germanic/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/germanic_wood_shield_long_a.rigid_model_v2"  mask0="2"  mask2="0" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,36 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH>
+			<SLOT name="hair" />
+			<SLOT name="beard" />
+			<SLOT name="prop_1" />
+			<SLOT name="prop_2" />
+			<SLOT name="helmets" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_wrap_helm_b.rigid_model_v2" >
+					<SLOT name="top_crests" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_coif_snood.rigid_model_v2" />
+					</SLOT>
+					<SLOT name="side_crests" />
+				</VARIANT_MESH>
+			</SLOT>
+			<SLOT name="tunics" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/att_cha_lamellar_chain_sleeves.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="cloaks" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/eastern_cloak/eastern_cloak_a_01.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_es_eastern_noble_trousers_a_thin.rigid_model_v2"  mask0="1"  mask1="0" />
+			</SLOT>
+			<SLOT name="shield" attach_point="weapon_03" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/att_cha_islamic_round_curved_shield_1.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/islamic/islamic_shield_spiral_decal_01_diffuse" />
+			</SLOT>
+			<SLOT name="weapon_1" />
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/att_cha_islamic_mace.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="weapon_3" />
+			<SLOT name="weapon_4" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

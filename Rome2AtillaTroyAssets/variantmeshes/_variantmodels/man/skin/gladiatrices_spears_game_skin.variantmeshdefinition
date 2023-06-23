@@ -1,0 +1,84 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+	
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_athletic_body_olive_skinned_headarmslegs.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_athletic_body_olive_skinned_headarmslegs.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_average_head1_olive_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_stocky_head1_olive_skinned.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_head1_olive_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_stocky_head1_olive_skinned.rigid_model_v2"/>
+			</SLOT>
+			<SLOT name="leg">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_sandals1_athletic_body.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="hair">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/spartan_female_hair01_black.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/spartan_female_hair01_blonde.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/spartan_female_hair02_brown.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/spartan_female_hair03_black.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/spartan_female_hair04_black.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_athletic_body_pale_skinned_headarmslegs.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_athletic_body_pale_skinned_headarmslegs.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_athletic_head1_pale_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_athletic_head1_pale_skinned.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_average_head2_woad2.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_athletic_head1_pale_skinned.rigid_model_v2"/>
+			</SLOT>
+			<SLOT name="leg">
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/leg/gladiator_leg_1.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/leg/gladiator_leg_3.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="hair">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair04_black.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair01_brown.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair03_blonde.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair05_red.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_body_olive_skinned_headarmslegs.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_stocky_body_olive_skinned_headarmslegs.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_average_head1_olive_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_stocky_head1_olive_skinned.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_head2_olive_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_stocky_head1_olive_skinned.rigid_model_v2"/>
+			</SLOT>
+			<SLOT name="leg">
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/leg/gladiator_leg_1.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/leg/gladiator_leg_3.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="hair">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair04_black.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair01_brown.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair03_blonde.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair05_red.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_body_pale_skinned_headarmslegs.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_stocky_body_pale_skinned_headarmslegs.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_head2_pale_skinned.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_average_head1_pale_skinned.rigid_model_v2"/>
+			</SLOT>
+			<SLOT name="leg">
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/leg/gladiator_leg_1.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/leg/gladiator_leg_3.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="hair">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair04_black.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair01_brown.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair03_blonde.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/celtic_female_hair05_red.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_stocky_body_scarred.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_stocky_body_scarred.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_head3_unscarred.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_head3_unscarred.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_head2_unscarred.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_head3_unscarred.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_head1_scarred.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_head3_unscarred.rigid_model_v2"/>
+			</SLOT>
+			<SLOT name="leg">
+			</SLOT>
+			<SLOT name="hair">
+			</SLOT>
+		</VARIANT_MESH>
+		
+	</SLOT>
+</VARIANT_MESH>

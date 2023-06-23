@@ -1,0 +1,49 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_wrap_helm.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_wrap_helm.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_coif_snood.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_wrap_helm.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_wrap_helm.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_coif_snood.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_wrap_helm.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_wrap_helm.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_coif_snood.rigid_model_v2"  mask0="1"  mask1="2"  mask2="0" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_wrap_helm_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_wrap_helm.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_coif_snood.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_wrap_helm_b.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_cloth_wrap_helm.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_coif_snood.rigid_model_v2"  mask0="2"  mask2="0" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

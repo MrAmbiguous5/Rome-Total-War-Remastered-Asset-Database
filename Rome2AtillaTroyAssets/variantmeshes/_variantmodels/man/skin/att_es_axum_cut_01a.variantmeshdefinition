@@ -1,0 +1,34 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/att_es_axum_head_a_01.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/att_es_axum_head_a_01.rigid_model_v2">
+			<SLOT name="hair" probability ="0.9" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_es_axum_hair_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_es_axum_hair_02.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/att_es_axum_head_b_01.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/att_es_axum_head_a_01.rigid_model_v2" >
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_es_axum_hair_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_es_axum_hair_02.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/att_es_axum_head_c_02.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/att_es_axum_head_a_01.rigid_model_v2" >
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_es_axum_hair_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_es_axum_hair_02.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/att_es_axum_head_a_03.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/att_es_axum_head_a_01.rigid_model_v2" >
+			<SLOT name="hair" probability ="0.8" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_es_axum_hair_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_es_axum_hair_02.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/att_es_axum_head_c_03.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/att_es_axum_head_a_01.rigid_model_v2" >
+			<SLOT name="hair" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_es_axum_hair_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/att_es_axum_hair_02.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

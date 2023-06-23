@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_02_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/celtic_leather_cuirass_03.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/celtic_leather_cuirass_03.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

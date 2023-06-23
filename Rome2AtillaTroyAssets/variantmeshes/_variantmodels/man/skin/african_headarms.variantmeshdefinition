@@ -1,0 +1,13 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican9_shape36.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican9_shape36.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican8_shape35.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican9_shape36.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican7_shape34.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican9_shape36.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican6_shape33.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican9_shape36.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican5_shape32.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican9_shape36.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican4_shape31.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican9_shape36.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican3_shape30.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican9_shape36.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican2_shape29.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican9_shape36.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican1_shape28.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/afr_headarms_base_skinmafrican9_shape36.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

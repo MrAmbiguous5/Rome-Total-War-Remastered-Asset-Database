@@ -1,0 +1,6 @@
+<VARIANT_MESH>
+	<SLOT name="cloaks" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/pelts/black_bearpelt_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/pelts/black_bearpelt_1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/pelts/brown_bearpelt_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/pelts/black_bearpelt_1.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

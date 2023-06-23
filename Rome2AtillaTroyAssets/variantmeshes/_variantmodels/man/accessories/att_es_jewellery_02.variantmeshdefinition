@@ -1,0 +1,22 @@
+<VARIANT_MESH>
+	<SLOT name="upper_arm_jewellery" >
+		<VARIANT_MESH>
+			<SLOT name="first_half" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_01b_left.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_03b_left.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_01b_right.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_iron_03b_left.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_02b_left.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_03b_left.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_02b_right.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_iron_03b_left.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_03b_left.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_03b_left.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH>
+			<SLOT name="second_half" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_03b_right.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_iron_03b_left.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_04b_left.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_03b_left.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_04b_right.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_iron_03b_left.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_05b_left.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_03b_left.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_bronze_05b_right.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/accessories/att_es_axum_bracelet_iron_03b_left.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,5 @@
+<VARIANT_MESH>
+	<SLOT name="shields" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/pict_square_shield_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/celtic/att_celts_pict_square_shield_02_decals"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/pict_square_shield_02.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

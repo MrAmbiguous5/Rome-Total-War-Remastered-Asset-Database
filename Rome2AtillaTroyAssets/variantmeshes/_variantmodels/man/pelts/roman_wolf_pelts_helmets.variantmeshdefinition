@@ -1,0 +1,7 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/pelts/wolf_pelt_1.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

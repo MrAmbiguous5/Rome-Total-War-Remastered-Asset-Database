@@ -1,0 +1,19 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/att_bel_tunic_game_basic_cut_01.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/att_bel_roman_muscle_cuirass.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/att_bel_roman_muscle_cuirass.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="belts" />
+			<SLOT name="trousers" >
+				<VARIANT_MESH>
+					<SLOT name="trousers" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_bel_cothurni_trousers_cut_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_heavy_cut_02.rigid_model_v2" >
+							<SLOT name="shoes" />
+						</VARIANT_MESH>
+					</SLOT>
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

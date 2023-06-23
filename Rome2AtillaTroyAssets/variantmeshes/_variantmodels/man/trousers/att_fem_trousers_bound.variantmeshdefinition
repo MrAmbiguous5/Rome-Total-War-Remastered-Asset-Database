@@ -1,0 +1,46 @@
+<VARIANT_MESH>
+	<SLOT name="trousers" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/cloth_leg_bound_01_cut_fem.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_leg_bound_01_cut_fem.rigid_model_v2" >
+			<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_02_cut_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_02_cut_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01_cut_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01_cut_02.rigid_model_v2" >
+					<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.1" />
+					<TINT red="0.188235" green="0.141176" blue="0.07451" random_range="0.1" />
+					<TINT red="0.082353" green="0.058824" blue="0.031373" random_range="0.1" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/cloth_leg_bound_01_cut_fem.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_leg_bound_01_cut_fem.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_02_cut_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_02_cut_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01_cut_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01_cut_02.rigid_model_v2" >
+					<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.1" />
+					<TINT red="0.168627" green="0.121569" blue="0.062745" random_range="0.1" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/cloth_leg_bound_01_cut_fem.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_leg_bound_01_cut_fem.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_02_cut_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_02_cut_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01_cut_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01_cut_02.rigid_model_v2" >
+					<TINT red="0.101961" green="0.070588" blue="0.039216" random_range="0.1" />
+					<TINT red="0.207843" green="0.14902" blue="0.078431" random_range="0.1" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/cloth_leg_bound_01_cut_fem.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/cloth_leg_bound_01_cut_fem.rigid_model_v2" >
+			<TINT red="0.792157" green="0.792157" blue="0.701961" random_range="0.1" />
+			<TINT red="0.345098" green="0.345098" blue="0.258824" random_range="0.1" />
+			<TINT red="0.086275" green="0.168627" blue="0.086275" random_range="0.1" />
+			<TINT red="0.145098" green="0.231373" blue="0.27451" random_range="0.1" />
+			<TINT red="0.27451" green="0.164706" blue="0.164706" random_range="0.1" />
+					<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_02_cut_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_02_cut_02.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01_cut_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01_cut_02.rigid_model_v2" >
+					<TINT red="0.101961" green="0.070588" blue="0.039216" random_range="0.1" />
+					<TINT red="0.207843" green="0.14902" blue="0.078431" random_range="0.1" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

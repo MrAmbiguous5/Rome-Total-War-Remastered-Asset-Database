@@ -1,0 +1,18 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/iberian_cap_helmet_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/roman_montefortino.rigid_model_v2" >
+			<SLOT name="top_crests" probability ="0.7" attach_point="crest_brim" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/crests/black_feather_03.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/iberian_cap_helmet_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/celtic_leather_helmet_01.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/iberian_cap_helmet_3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/celtic_leather_helmet_01.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

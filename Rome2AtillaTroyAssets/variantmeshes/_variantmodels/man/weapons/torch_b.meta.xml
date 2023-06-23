@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata_root>
+    <version>2</version>
+    <metadata>
+        <version>5</version>
+        <name>EFFECT</name>
+        <start_time type="float32">0</start_time>
+        <end_time type="float32">0</end_time>
+        <filter type="string"></filter>
+        <value type="effect">
+            <effect_name>action_vfx_torch_fire_trail_small</effect_name>
+            <is_tracking>true</is_tracking>
+            <pos_x>0.816458</pos_x>
+            <pos_y>0</pos_y>
+            <pos_z>0</pos_z>
+            <ori_i>0</ori_i>
+            <ori_j>0</ori_j>
+            <ori_k>-0.704452</ori_k>
+            <ori_w>0.709752</ori_w>
+            <node_index>4294967295</node_index>
+            <scale>1</scale>
+        </value>
+    </metadata>
+    <approved_sound_metadata/>
+</metadata_root>

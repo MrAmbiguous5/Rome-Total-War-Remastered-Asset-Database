@@ -1,0 +1,10 @@
+<VARIANT_MESH>
+	<SLOT name="beard" />
+	<SLOT name="hair" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_01.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/roman_hair_brown_02.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/gre_greek_hair_2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/hel_hair_03.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/hel_hair_02.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

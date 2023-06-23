@@ -1,0 +1,11 @@
+<VARIANT_MESH>
+	<SLOT name="shields" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/germanic_coffin_shield_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/germanic_coffin_shield_02.rigid_model_v2" >
+			<TINT red="0.568627" green="0.266667" blue="0.113725" random_range="0.2" />
+			<TINT red="0.172549" green="0.172549" blue="0.427451" random_range="0.2" />
+			<TINT red="0.137255" green="0.333333" blue="0.137255" random_range="0.2" />
+			<TINT red="0.0" green="0.0" blue="0.0" random_range="0.2" />
+			<TINT red="0.454902" green="0.321569" blue="0.184314" random_range="0.2" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

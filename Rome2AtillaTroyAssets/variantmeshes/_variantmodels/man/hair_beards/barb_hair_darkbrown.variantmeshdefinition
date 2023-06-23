@@ -1,0 +1,14 @@
+<VARIANT_MESH>
+	<SLOT name="beard" />
+	<SLOT name="hair" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_01a_drkbrown_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_01b_drkbrown_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_01c_drkbrown_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_01d_drkbrown_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_06a_drkbrown_tint_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_06b_drkbrown_tint_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_06c_drkbrown_tint_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_06d_drkbrown_tint_lod1.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/barbarian_hair_06e_drkbrown_tint_lod1.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

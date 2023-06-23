@@ -1,0 +1,30 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/celtic_elite_tunic_02_cut_02.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01_cut.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_roman_heavy_chain_sleeveless.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/accessories/att_nordic_belts.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH>
+					<SLOT name="trousers" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/cloth_leg_bound_01_cut.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_basic_trousers_01_cut.rigid_model_v2" >
+							<SLOT name="shoes" >
+								<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01.rigid_model_v2" >
+									<TINT red="0.019608" green="0.011765" blue="0.003922" random_range="0.1" />
+									<TINT red="0.062745" green="0.047059" blue="0.023529" random_range="0.1" />
+									<TINT red="0.098039" green="0.070588" blue="0.035294" random_range="0.1" />
+									<TINT red="0.137255" green="0.101961" blue="0.05098" random_range="0.1" />
+									<TINT red="0.196078" green="0.145098" blue="0.070588" random_range="0.1" />
+								</VARIANT_MESH>
+								<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_02.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_02.rigid_model_v2" />
+							</SLOT>
+						</VARIANT_MESH>
+					</SLOT>
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

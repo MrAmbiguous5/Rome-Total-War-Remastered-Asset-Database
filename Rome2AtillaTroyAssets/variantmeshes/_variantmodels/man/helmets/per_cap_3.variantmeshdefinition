@@ -1,0 +1,8 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/eastern_cap.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/eastern_cap.rigid_model_v2"  mask0="2"  mask1="0"  mask2="1" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

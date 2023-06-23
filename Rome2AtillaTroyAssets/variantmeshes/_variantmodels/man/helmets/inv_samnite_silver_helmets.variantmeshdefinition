@@ -1,0 +1,34 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/inv_samnite_helmet_silver/inv_samnite_helmet_silver.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/inv_samnite_helmet_silver/inv_samnite_helmet_silver.rigid_model_v2" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/inv_samnite_helmet_silver/inv_samnite_helmet_silver.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/inv_samnite_helmet_silver/inv_samnite_helmet_silver.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/inv_samnite_helmet_silver/inv_samnite_helmet_silver.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/inv_samnite_helmet_silver/inv_samnite_helmet_silver.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/inv_samnite_helmet_silver/inv_samnite_helmet_silver_nocrest.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/inv_samnite_helmet_silver/inv_samnite_helmet_silver.rigid_model_v2" >
+			<SLOT name="top_crests" attach_point="crest_centre" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_04.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_01.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_06.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_01.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/inv_samnite_helmet_silver/inv_samnite_helmet_silver_nocrest.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/inv_samnite_helmet_silver/inv_samnite_helmet_silver.rigid_model_v2" >
+			<SLOT name="top_crests" attach_point="crest_centre" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_06.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_06.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_06.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_06.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_04.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/crests/inv_samnite_crest_multicolor/inv_samnite_crest_multicolor_06.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="side_crests" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

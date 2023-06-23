@@ -1,0 +1,8 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/att_cha_islamic_head_1_a_cut_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/att_cha_islamic_head_1_a_cut_2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/att_cha_islamic_head_1_b_cut_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/att_cha_islamic_head_1_a_cut_2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/att_cha_islamic_head_2_a_cut_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/att_cha_islamic_head_1_a_cut_2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/att_cha_islamic_head_2_b_cut_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/att_cha_islamic_head_1_a_cut_2.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,11 @@
+<VARIANT_MESH>
+	<SLOT name="skin">
+		<VARIANT_MESH model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin1_shape1.rigid_model_v2" imposter_model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin2_shape2.rigid_model_v2"></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin2_shape2.rigid_model_v2" imposter_model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin2_shape2.rigid_model_v2"></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin3_shape3.rigid_model_v2" imposter_model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin2_shape2.rigid_model_v2"></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin4_shape4.rigid_model_v2" imposter_model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin2_shape2.rigid_model_v2"></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin5_shape5.rigid_model_v2" imposter_model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin2_shape2.rigid_model_v2"></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin6_shape6.rigid_model_v2" imposter_model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin2_shape2.rigid_model_v2"></VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin7_shape7.rigid_model_v2" imposter_model="VariantMeshes\_VariantModels\man\skin\advisors\female\fem_nohair_cine_skin2_shape2.rigid_model_v2"></VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

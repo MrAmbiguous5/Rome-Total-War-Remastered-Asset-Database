@@ -1,0 +1,8 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_nuragic_skirt/inv_nuragic_skirt.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_nuragic_skirt/inv_nuragic_skirt.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_nuragic_skirt/inv_nuragic_skirt.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_nuragic_skirt/inv_nuragic_skirt.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/african_tunic_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_nuragic_skirt/inv_nuragic_skirt.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/african_tunic_03.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_nuragic_skirt/inv_nuragic_skirt.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

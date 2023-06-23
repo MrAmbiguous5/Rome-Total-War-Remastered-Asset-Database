@@ -1,0 +1,11 @@
+<VARIANT_MESH>
+	<SLOT name="shields" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/round_curved_shield.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/round_curved_shield.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="boss" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/medium_curved_spike_boss.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/bosses/medium_curved_spike_boss.rigid_model_v2" />
+	</SLOT>
+	<SLOT name="decorations" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bosses/frankish_shield_boss_round_03_lions_iron.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/bosses/frankish_shield_boss_round_03_lions_iron.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,21 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/celtic_elite_tunic_01_cut_04.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_elite_tunic_01_cut_04.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_lorica_squamata_with_pteryges_iron.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="mail_top" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/light_chainmail_armour_top_01_cut3.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="mail_down" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/light_chainmail_armour_down_01_cut3.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="belts" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_lb_belts_for_iron_lamellar_corselet.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_roman_bound_cloth_legs_greaves.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,53 @@
+<VARIANT_MESH>
+	<SLOT name="type" >
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/eastern_headhands_base_skineas5_shape20.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/eastern_headhands_base_skineas5_shape20.rigid_model_v2" >
+					<SLOT name="beard" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03a_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03b_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03f_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03d_drkbrown_lod1.rigid_model_v2" />
+					</SLOT>
+					<SLOT name="hair" />
+				</VARIANT_MESH>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/eastern_headhands_base_skineas1_shape16.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/eastern_headhands_base_skineas5_shape20.rigid_model_v2" >
+					<SLOT name="beard" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03a_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03b_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03f_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03d_drkbrown_lod1.rigid_model_v2" />
+					</SLOT>
+					<SLOT name="hair" />
+				</VARIANT_MESH>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/eastern_headhands_base_skineas3_shape18.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/eastern_headhands_base_skineas5_shape20.rigid_model_v2" >
+					<SLOT name="beard" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03a_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03b_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03f_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03d_drkbrown_lod1.rigid_model_v2" />
+					</SLOT>
+					<SLOT name="hair" />
+				</VARIANT_MESH>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/eastern_headhands_base_skineas8_shape23.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/eastern_headhands_base_skineas5_shape20.rigid_model_v2" >
+					<SLOT name="beard" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03a_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03b_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03f_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03d_drkbrown_lod1.rigid_model_v2" />
+					</SLOT>
+					<SLOT name="hair" />
+				</VARIANT_MESH>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/eastern_headhands_base_skineas9_shape24.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/eastern_headhands_base_skineas5_shape20.rigid_model_v2" >
+					<SLOT name="beard" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03a_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03b_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03f_drkbrown_lod1.rigid_model_v2" />
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03d_drkbrown_lod1.rigid_model_v2" />
+					</SLOT>
+					<SLOT name="hair" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

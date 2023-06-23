@@ -1,0 +1,8 @@
+<VARIANT_MESH>
+	<SLOT name="weapons" attach_point="weapon_02" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/att_lb_horsecutter_sword.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/weapons/att_lb_horsecutter_sword.rigid_model_v2" >
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/att_lb_horsecutter_sword_2.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/weapons/att_lb_horsecutter_sword_2.rigid_model_v2" >
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

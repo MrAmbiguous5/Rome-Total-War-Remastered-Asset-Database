@@ -1,0 +1,26 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/germanic_crossband_03.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/germanic_crossband_03.rigid_model_v2" >
+			<TINT red="0.047059" green="0.047059" blue="0.047059" random_range="0.1" />
+			<TINT red="0.337255" green="0.227451" blue="0.07451" random_range="0.1" />
+			<TINT red="0.392157" green="0.392157" blue="0.392157" random_range="0.1" />
+			<TINT red="0.168627" green="0.156863" blue="0.113725" random_range="0.1" />
+					<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/germanic_crossband_04.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/germanic_crossband_03.rigid_model_v2" >
+			<TINT red="0.047059" green="0.047059" blue="0.047059" random_range="0.1" />
+			<TINT red="0.337255" green="0.227451" blue="0.07451" random_range="0.1" />
+			<TINT red="0.392157" green="0.392157" blue="0.392157" random_range="0.1" />
+			<TINT red="0.168627" green="0.156863" blue="0.113725" random_range="0.1" />
+					<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,5 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/eastern_cine_headhands_base_skineas11_shape19.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/eastern_full_base_skineas1_shape16.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

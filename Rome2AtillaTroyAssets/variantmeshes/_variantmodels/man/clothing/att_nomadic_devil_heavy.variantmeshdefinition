@@ -1,0 +1,15 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH>
+			<SLOT name="armour" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/armour/att_hun_devil_rider.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="belts" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/devil_raider_cataphract_arm_armour.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/leg/att_full_chain_devil.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

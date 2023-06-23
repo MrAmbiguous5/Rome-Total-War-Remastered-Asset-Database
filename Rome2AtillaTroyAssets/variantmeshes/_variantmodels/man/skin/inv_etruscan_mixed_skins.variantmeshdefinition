@@ -1,0 +1,22 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/roman_skin1_shape1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/roman_skin1_shape1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/roman_skin3_shape3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/roman_skin1_shape1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/roman_skin5_shape5.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/roman_skin1_shape1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/roman_skin12_shape12.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/roman_skin1_shape1.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/roman_skin14_shape14.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/roman_skin1_shape1.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH>
+			<SLOT name="skin" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre4_shape4.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre4_shape4.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre2_shape2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre4_shape4.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre6_shape6.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre4_shape4.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre8_shape8.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre4_shape4.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre11_shape11.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_full_base_skingre4_shape4.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

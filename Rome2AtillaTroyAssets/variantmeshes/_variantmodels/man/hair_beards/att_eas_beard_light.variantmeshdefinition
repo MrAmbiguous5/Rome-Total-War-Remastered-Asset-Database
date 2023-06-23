@@ -1,0 +1,20 @@
+<VARIANT_MESH>
+	<SLOT name="beard" probability ="0.9" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03a_tinted.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.352941" green="0.294118" blue="0.211765" random_range="0.1" />
+			<TINT red="0.235294" green="0.192157" blue="0.141176" random_range="0.1" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03b_tinted.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.352941" green="0.294118" blue="0.211765" random_range="0.1" />
+			<TINT red="0.235294" green="0.192157" blue="0.141176" random_range="0.1" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03c_tinted.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.352941" green="0.294118" blue="0.211765" random_range="0.1" />
+			<TINT red="0.235294" green="0.192157" blue="0.141176" random_range="0.1" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/eastern_beard_03d_tinted.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.352941" green="0.294118" blue="0.211765" random_range="0.1" />
+			<TINT red="0.235294" green="0.192157" blue="0.141176" random_range="0.1" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

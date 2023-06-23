@@ -1,0 +1,12 @@
+<VARIANT_MESH>
+	<SLOT name="armour" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/celtic_leather_armour_long_plain_fem.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/armour/celtic_leather_armour_long_plain_fem.rigid_model_v2" >
+			<TINT red="0.05098" green="0.043137" blue="0.043137" random_range="0.1" />
+			<TINT red="0.094118" green="0.066667" blue="0.035294" random_range="0.1" />
+			<TINT red="0.066667" green="0.047059" blue="0.023529" random_range="0.1" />
+			<TINT red="0.117647" green="0.094118" blue="0.058824" random_range="0.1" />
+					<SLOT name="skirt" />
+			<SLOT name="shoulders" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

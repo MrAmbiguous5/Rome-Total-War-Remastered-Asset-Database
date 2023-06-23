@@ -1,0 +1,13 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+	
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_stocky_body_pale_skinned_headhands.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_stocky_body_pale_skinned_headhands.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_officer_cine_average_head1_pale.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_officer_cine_average_head1_pale.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_officer_cine_stocky_head1_pale.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_officer_cine_average_head1_pale.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_officer_cine_average_head2_pale.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_officer_cine_average_head1_pale.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_officer_cine_athletic_head1_pale.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_officer_cine_average_head1_pale.rigid_model_v2"/>
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,26 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_sardi_tunic_knife/inv_sardi_tunic_knife.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_tunic_knife/inv_sardi_tunic_knife.rigid_model_v2" >
+			<SLOT name="armour" probability ="0.5" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_sardi_towel_tunic/inv_sardi_towel_tunic.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_tunic_knife/inv_sardi_tunic_knife.rigid_model_v2" >
+			<SLOT name="armour" probability ="0.5" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_tunic_knife/inv_sardi_tunic_knife.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" probability ="0.5" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/inv_sardi_tunic_knife/inv_sardi_tunic_knife.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/inv_sardi_tunic_knife/inv_sardi_tunic_knife.rigid_model_v2" >
+			<SLOT name="armour" probability ="0.5" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

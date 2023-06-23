@@ -1,0 +1,59 @@
+<VARIANT_MESH>
+	<SLOT name="base" >
+		<VARIANT_MESH>
+			<SLOT name="skin" />
+			<SLOT name="hands" />
+			<SLOT name="hair" />
+			<SLOT name="props" attach_point="weapon_03" />
+			<SLOT name="accessories" />
+			<SLOT name="helmets" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_charlemagne_king_crown.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="coifs" />
+			<SLOT name="clothing" >
+				<VARIANT_MESH>
+					<SLOT name="tunic" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/att_cha_tunic_cut_ingame.rigid_model_v2" />
+					</SLOT>
+					<SLOT name="armour top" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/heavy_chainmail_armour_top_01_cut1.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/armour/heavy_chainmail_armour_top_01_cut1.rigid_model_v2" />
+					</SLOT>
+					<SLOT name="armour skirt" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/heavy_chainmail_armour_down_01_cut1.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/armour/heavy_chainmail_armour_down_01_cut1.rigid_model_v2" />
+					</SLOT>
+					<SLOT name="belts" >
+						<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/accessories/att_roman_belts.VariantMeshDefinition" />
+					</SLOT>
+					<SLOT name="trousers" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_cha_striped_trousers_01_cine.rigid_model_v2" />
+					</SLOT>
+					<SLOT name="shoes" />
+				</VARIANT_MESH>
+			</SLOT>
+			<SLOT name="cloaks" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/att_cha_charlemagne_cloak_armour_ingame.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="vambraces" >
+				<VARIANT_MESH>
+					<SLOT name="left" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/att_cha_carolingian_vambrace_armour_left.rigid_model_v2" />
+					</SLOT>
+					<SLOT name="right" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/arm_armour/att_cha_carolingian_vambrace_armour_right.rigid_model_v2" />
+					</SLOT>
+				</VARIANT_MESH>
+			</SLOT>
+			<SLOT name="greaves" />
+			<SLOT name="shield" attach_point="weapon_03" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/shield/cha_frankish_decorated.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="boss" attach_point="weapon_03" />
+			<SLOT name="weapon_1" attach_point="weapon_01" />
+			<SLOT name="weapon_2" attach_point="weapon_01,weapon_02" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/roman_spatha_2.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="weapon_3" />
+			<SLOT name="weapon_4" probability ="0.5" attach_point="weapon_05" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

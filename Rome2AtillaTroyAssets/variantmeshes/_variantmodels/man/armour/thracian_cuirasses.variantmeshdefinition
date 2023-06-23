@@ -1,0 +1,34 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thracian_tunic1_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_A.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thracian_tunic2_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_A.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thracian_tunic3_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_A.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thracian_tunic4_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2"  mask0="2"  mask2="0" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_A.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/thracian_tunic4_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_A.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2" />
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/hellenic_bronze_cuirass_B.rigid_model_v2" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

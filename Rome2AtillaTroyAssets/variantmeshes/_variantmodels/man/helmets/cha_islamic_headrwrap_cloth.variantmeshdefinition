@@ -1,0 +1,44 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_arab_headscarf.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_arab_headscarf.rigid_model_v2" >
+			<TINT red="1.0" green="1.0" blue="1.0" random_range="0.0" />
+					<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_arab_headscarf.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_arab_headscarf.rigid_model_v2" >
+			<TINT red="0.666667" green="0.556863" blue="0.466667" random_range="0.0" />
+					<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_arab_headscarf.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_arab_headscarf.rigid_model_v2" >
+			<TINT red="0.101961" green="0.101961" blue="0.101961" random_range="0.0" />
+					<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_arab_headscarf.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_arab_headscarf.rigid_model_v2" >
+			<TINT red="1.0" green="1.0" blue="1.0" random_range="0.0" />
+					<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/att_cha_arab_headscarf.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/att_cha_arab_headscarf.rigid_model_v2" >
+			<TINT red="0.192157" green="0.152941" blue="0.105882" random_range="0.0" />
+					<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

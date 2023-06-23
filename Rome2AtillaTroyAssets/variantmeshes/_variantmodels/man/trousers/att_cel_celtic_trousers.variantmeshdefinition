@@ -1,0 +1,34 @@
+<VARIANT_MESH>
+	<SLOT name="trousers" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/cloth_leg_bound_01_cut_socks.rigid_model_v2" >
+			<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01.rigid_model_v2" >
+					<TINT red="0.078431" green="0.035294" blue="0.015686" random_range="0.0" />
+				</VARIANT_MESH>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01.rigid_model_v2" >
+					<TINT red="0.027451" green="0.007843" blue="0.0" random_range="0.0" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_heavy_cut_02.rigid_model_v2" >
+			<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01.rigid_model_v2" >
+					<TINT red="0.078431" green="0.035294" blue="0.015686" random_range="0.0" />
+				</VARIANT_MESH>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01.rigid_model_v2" >
+					<TINT red="0.027451" green="0.007843" blue="0.0" random_range="0.0" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/cloth_legs_light_02_cut_02.rigid_model_v2" >
+			<SLOT name="shoes" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01.rigid_model_v2" >
+					<TINT red="0.078431" green="0.035294" blue="0.015686" random_range="0.0" />
+				</VARIANT_MESH>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/roman_shoe_01.rigid_model_v2" >
+					<TINT red="0.027451" green="0.007843" blue="0.0" random_range="0.0" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

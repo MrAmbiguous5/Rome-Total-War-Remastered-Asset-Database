@@ -1,0 +1,29 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/african_tunic_skirt_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/african_tunic_skirt_01.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/african_tunic_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/african_tunic_skirt_01.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/african_tunic_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/african_tunic_skirt_01.rigid_model_v2"  mask0="2"  mask1="0"  mask2="1" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/african_tunic_03.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/african_tunic_skirt_01.rigid_model_v2"  mask0="2"  mask1="0"  mask2="1" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/african_tunic_03.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/african_tunic_skirt_01.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

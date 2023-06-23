@@ -1,0 +1,6 @@
+<VARIANT_MESH>
+	<SLOT name="shoulders" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shoulders/devil_raider_shoulder_armour_01_b.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shoulders/devil_raider_shoulder_armour_02_b.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" />
+	</SLOT>
+</VARIANT_MESH>

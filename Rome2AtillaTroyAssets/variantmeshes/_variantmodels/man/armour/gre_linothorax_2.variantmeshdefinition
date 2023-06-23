@@ -1,0 +1,11 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/italian_tunic1_cut.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic_cutoffA.rigid_model_v2" >
+			<SLOT name="armour" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/bsc_greek_linothorax_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/linothorax_basic_01.rigid_model_v2"  mask0="1"  mask1="0" />
+			</SLOT>
+			<SLOT name="trousers" />
+			<SLOT name="cloaks" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

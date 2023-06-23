@@ -1,0 +1,22 @@
+<VARIANT_MESH>
+	<SLOT name="beard" >
+		<VARIANT_MESH>
+			<SLOT name="beard" probability ="0.9" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_02g.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+					<TINT red="0.023529" green="0.015686" blue="0.015686" random_range="0.1" />
+				</VARIANT_MESH>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_02i.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+					<TINT red="0.023529" green="0.015686" blue="0.015686" random_range="0.1" />
+				</VARIANT_MESH>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/barbarian_beard_02j.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+					<TINT red="0.023529" green="0.015686" blue="0.015686" random_range="0.1" />
+				</VARIANT_MESH>
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+	<SLOT name="hair" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/iberian_hair_01a_black.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/iberian_hair_01b_black.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/iberian_hair_01c_black.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

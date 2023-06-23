@@ -1,0 +1,14 @@
+<VARIANT_MESH>
+	<SLOT name="left_bracer" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bracers/bronze_scale_bracer_left.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.098039" green="0.086275" blue="0.082353" random_range="0.05" />
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.05" />
+		</VARIANT_MESH>
+	</SLOT>
+	<SLOT name="right_bracer" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/bracers/bronze_scale_bracer_right.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.098039" green="0.086275" blue="0.082353" random_range="0.05" />
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.05" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

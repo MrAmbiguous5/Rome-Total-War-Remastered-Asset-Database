@@ -1,0 +1,5 @@
+<VARIANT_MESH>
+	<SLOT name="beard" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/beards/spartan_beard_01_blk.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

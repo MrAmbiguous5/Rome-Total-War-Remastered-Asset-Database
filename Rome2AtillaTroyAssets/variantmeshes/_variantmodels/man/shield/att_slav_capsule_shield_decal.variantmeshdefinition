@@ -1,0 +1,7 @@
+<VARIANT_MESH>
+	<SLOT name="shields" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/att_slv_slav_capsule_shield_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/slavic/att_slav_capsule_shield_decal"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/att_slv_slav_capsule_shield_01.rigid_model_v2" >
+			<SLOT name="boss" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

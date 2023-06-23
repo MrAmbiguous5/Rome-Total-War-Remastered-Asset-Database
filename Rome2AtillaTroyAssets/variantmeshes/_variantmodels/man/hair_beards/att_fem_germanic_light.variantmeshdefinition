@@ -1,0 +1,16 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/germanic_fem_hairstyle_01.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.65098" green="0.635294" blue="0.454902" random_range="0.1" />
+			<TINT red="0.203922" green="0.14902" blue="0.07451" random_range="0.1" />
+			<TINT red="0.137255" green="0.101961" blue="0.054902" random_range="0.1" />
+			<TINT red="0.490196" green="0.243137" blue="0.101961" random_range="0.1" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/hair_beards/hair/germanic_fem_hairstyle_02.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.113725" green="0.113725" blue="0.113725" random_range="0.1" />
+			<TINT red="0.243137" green="0.243137" blue="0.12549" random_range="0.1" />
+			<TINT red="0.203922" green="0.121569" blue="0.05098" random_range="0.1" />
+			<TINT red="0.070588" green="0.043137" blue="0.011765" random_range="0.1" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

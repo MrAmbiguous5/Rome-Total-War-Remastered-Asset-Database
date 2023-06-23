@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/gre_fancy_tunic_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/gre_fancy_tunic_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/gre_fancy_tunic_3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2"  mask0="2"  mask2="0" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/gre_fancy_tunic_4.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/gre_fancy_tunic_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/tunics/e3_tunic.rigid_model_v2"  mask0="1"  mask1="2"  mask2="0" />
+	</SLOT>
+</VARIANT_MESH>

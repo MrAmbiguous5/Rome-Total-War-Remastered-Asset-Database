@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="weapons" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/celt_sworda.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/celt_swordb.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/celt_swordc.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/celt_swordd.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/celt_sworde.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

@@ -1,0 +1,6 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_just_arms_legs_painted2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_just_arms_legs_painted2.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/greek_just_arms_legs_painted3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/greek_just_arms_legs_painted2.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

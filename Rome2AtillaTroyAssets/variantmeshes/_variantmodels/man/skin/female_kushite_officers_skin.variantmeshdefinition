@@ -1,0 +1,21 @@
+<VARIANT_MESH>
+	<SLOT name="skin" >
+
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_stocky_body_scarred.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_stocky_body_scarred.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head1_scarred.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head1_scarred.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head2_unscarred.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head1_scarred.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head3_unscarred.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head1_scarred.rigid_model_v2"/>
+			</SLOT>
+		</VARIANT_MESH>
+		
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_stocky_body_unscarred.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_stocky_body_unscarred.rigid_model_v2" >
+			<SLOT name="head">
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head1_unscarred.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head1_unscarred.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head2_scarred.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head1_unscarred.rigid_model_v2"/>
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head3_scarred.rigid_model_v2" imposter_model="VariantMeshes/_VariantModels/man/skin/female_kushite_officer_cine_head1_unscarred.rigid_model_v2"/>		
+			</SLOT>
+		</VARIANT_MESH>
+	
+	</SLOT>
+</VARIANT_MESH>

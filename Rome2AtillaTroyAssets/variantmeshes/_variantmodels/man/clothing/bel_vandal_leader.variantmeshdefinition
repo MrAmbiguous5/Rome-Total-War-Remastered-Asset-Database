@@ -1,0 +1,40 @@
+<VARIANT_MESH>
+	<SLOT name="base" >
+		<VARIANT_MESH>
+			<SLOT name="skin" />
+			<SLOT name="hair" />
+			<SLOT name="props" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/trousers/att_bel_cothurni_trousers_cut_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/trousers/celtic_basic_trousers_01_cut.rigid_model_v2"  mask0="2"  mask2="0" />
+			</SLOT>
+			<SLOT name="accessories" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/belt_02.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="helmets" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/helmets/att_roman_cav_heavy_elite.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="clothing" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/armour/att_bel_scale_long_coat_iron.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/armour/lorica_squamata_heavy_mail.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="cloaks" >
+				<VARIANT_MESH>
+					<SLOT name="cloaks" >
+						<VARIANT_MESH model="VariantMeshes/_VariantModels/man/cloak/celtic_cloak/celtic_cloak_1.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/cloak/eastern_cloak/eastern_cloak_01.rigid_model_v2" />
+					</SLOT>
+				</VARIANT_MESH>
+			</SLOT>
+			<SLOT name="vambraces" />
+			<SLOT name="greaves" attach_point="weapon_03" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/bosses/att_small_curved.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="shield" attach_point="weapon_03" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/shield/att_small_reinforced_shield.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="weapon_1" attach_point="weapon_01" />
+			<SLOT name="weapon_2" attach_point="weapon_02" >
+				<VARIANT_MESH model="VariantMeshes/_VariantModels/man/weapons/att_bel_ring_sword_a.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/weapons/att_khanda_01.rigid_model_v2" />
+			</SLOT>
+			<SLOT name="weapon_3" attach_point="weapon_04" />
+			<SLOT name="weapon_4" attach_point="weapon_05" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

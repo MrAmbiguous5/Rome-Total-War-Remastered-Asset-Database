@@ -1,0 +1,6 @@
+<VARIANT_MESH>
+	<SLOT name="armour" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/pelts/celtic_pelt_01.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/pelts/celtic_pelt_01.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/pelts/celtic_pelt_02.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/pelts/celtic_pelt_01.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

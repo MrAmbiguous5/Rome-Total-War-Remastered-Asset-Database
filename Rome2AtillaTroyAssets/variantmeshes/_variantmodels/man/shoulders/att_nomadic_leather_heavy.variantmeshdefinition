@@ -1,0 +1,34 @@
+<VARIANT_MESH>
+	<SLOT name="shoulders" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shoulders/nomadic_shoulders_01.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.062745" green="0.047059" blue="0.023529" random_range="0.25" />
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.25" />
+			<TINT red="0.239216" green="0.180392" blue="0.098039" random_range="0.25" />
+			<TINT red="0.352941" green="0.270588" blue="0.145098" random_range="0.25" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shoulders/nomadic_shoulders_02.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.062745" green="0.047059" blue="0.023529" random_range="0.25" />
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.25" />
+			<TINT red="0.239216" green="0.180392" blue="0.098039" random_range="0.25" />
+			<TINT red="0.352941" green="0.270588" blue="0.145098" random_range="0.25" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shoulders/nomadic_shoulders_03.rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.062745" green="0.047059" blue="0.023529" random_range="0.25" />
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.25" />
+			<TINT red="0.239216" green="0.180392" blue="0.098039" random_range="0.25" />
+			<TINT red="0.352941" green="0.270588" blue="0.145098" random_range="0.25" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shoulders/nomadic_shoulders_04 .rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.062745" green="0.047059" blue="0.023529" random_range="0.25" />
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.25" />
+			<TINT red="0.239216" green="0.180392" blue="0.098039" random_range="0.25" />
+			<TINT red="0.352941" green="0.270588" blue="0.145098" random_range="0.25" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shoulders/nomadic_shoulders_05 .rigid_model_v2"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+			<TINT red="0.062745" green="0.047059" blue="0.023529" random_range="0.25" />
+			<TINT red="0.141176" green="0.101961" blue="0.054902" random_range="0.25" />
+			<TINT red="0.239216" green="0.180392" blue="0.098039" random_range="0.25" />
+			<TINT red="0.352941" green="0.270588" blue="0.145098" random_range="0.25" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

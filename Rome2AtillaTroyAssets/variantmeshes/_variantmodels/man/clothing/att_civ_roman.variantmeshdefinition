@@ -1,0 +1,33 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/roman_tunic_light_a.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" >
+			<TINT red="0.196078" green="0.0" blue="0.0" random_range="0.2" />
+			<TINT red="0.113725" green="0.0" blue="0.172549" random_range="0.2" />
+			<TINT red="0.352941" green="0.117647" blue="0.0" random_range="0.2" />
+			<TINT red="0.0" green="0.098039" blue="0.0" random_range="0.2" />
+					<SLOT name="armour" />
+			<SLOT name="belts" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/accessories/att_roman_belts_tight.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_civ_roman.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/roman_tunic_a.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" >
+			<TINT red="0.588235" green="0.588235" blue="0.47451" random_range="0.2" />
+			<TINT red="0.686275" green="0.686275" blue="0.552941" random_range="0.2" />
+			<TINT red="0.145098" green="0.184314" blue="0.07451" random_range="0.2" />
+			<TINT red="0.192157" green="0.078431" blue="0.078431" random_range="0.2" />
+			<TINT red="0.811765" green="0.811765" blue="0.607843" random_range="0.2" />
+			<TINT red="0.137255" green="0.137255" blue="0.196078" random_range="0.2" />
+			<TINT red="0.172549" green="0.133333" blue="0.192157" random_range="0.2" />
+					<SLOT name="armour" />
+			<SLOT name="belts" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/accessories/att_roman_belts_tight.VariantMeshDefinition" />
+			</SLOT>
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_civ_roman.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

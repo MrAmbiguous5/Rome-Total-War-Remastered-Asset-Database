@@ -1,0 +1,9 @@
+<VARIANT_MESH>
+	<SLOT name="shields" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/cel_cav_round_a.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/briton/round_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/briton/round_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/iberian_caetra.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/cel_cav_round_a.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/briton/round_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/briton/round_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/iberian_caetra.rigid_model_v2"  mask0="1"  mask1="0" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/cel_cav_round_b.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/briton/round_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/briton/round_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/iberian_caetra.rigid_model_v2" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/cel_cav_round_b.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/briton/round_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/briton/round_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/iberian_caetra.rigid_model_v2"  mask0="2"  mask2="0" />
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/shield/cel_cav_round_c.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/briton/round_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/briton/round_normal"  imposter_model="VariantMeshes/_VariantModels/man/shield/iberian_caetra.rigid_model_v2" />
+	</SLOT>
+</VARIANT_MESH>

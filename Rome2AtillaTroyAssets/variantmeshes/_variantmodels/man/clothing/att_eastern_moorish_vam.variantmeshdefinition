@@ -1,0 +1,41 @@
+<VARIANT_MESH>
+	<SLOT name="tunics" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/arabian_tunic_01a.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" >
+			<SLOT name="armour" />
+			<SLOT name="belts" />
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_eastern_desert_trousers.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_eastern_desert_trousers_tint.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/arabian_tunic_01a.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="1"  mask1="0" >
+			<SLOT name="armour" />
+			<SLOT name="belts" />
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_eastern_desert_trousers.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_eastern_desert_trousers_tint.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/arabian_tunic_01a.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2"  mask0="2"  mask1="0"  mask2="1" >
+			<SLOT name="armour" />
+			<SLOT name="belts" />
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_eastern_desert_trousers.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_eastern_desert_trousers_tint.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/tunics/arabian_tunic_01a.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal"  imposter_model="VariantMeshes/_VariantModels/man/tunics/celtic_basic_tunic_01.rigid_model_v2" >
+			<TINT red="1.0" green="1.0" blue="0.607843" random_range="0.0" />
+			<TINT red="0.666667" green="0.666667" blue="0.498039" random_range="0.0" />
+			<TINT red="0.803922" green="0.901961" blue="1.0" random_range="0.0" />
+			<TINT red="0.831373" green="0.831373" blue="0.831373" random_range="0.0" />
+			<TINT red="0.921569" green="0.921569" blue="0.686275" random_range="0.0" />
+					<SLOT name="armour" />
+			<SLOT name="belts" />
+			<SLOT name="trousers" >
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_eastern_desert_trousers.VariantMeshDefinition" />
+				<VARIANT_MESH_REFERENCE definition="VariantMeshes/_VariantModels/man/trousers/att_eastern_desert_trousers_tint.VariantMeshDefinition" />
+			</SLOT>
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

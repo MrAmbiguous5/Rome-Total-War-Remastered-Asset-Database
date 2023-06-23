@@ -1,0 +1,36 @@
+<VARIANT_MESH>
+	<SLOT name="helmets" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/roman_cloth_hat_1.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/roman_cloth_hat_1.rigid_model_v2" >
+			<TINT red="0.231373" green="0.172549" blue="0.109804" random_range="0.0" />
+					<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/roman_cloth_hat_2.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/roman_cloth_hat_1.rigid_model_v2" >
+			<TINT red="0.392157" green="0.196078" blue="0.0" random_range="0.0" />
+					<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/roman_cloth_hat_3.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/roman_cloth_hat_1.rigid_model_v2" >
+			<TINT red="0.243137" green="0.219608" blue="0.109804" random_range="0.0" />
+					<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/helmets/roman_cloth_hat_4.rigid_model_v2"  imposter_model="VariantMeshes/_VariantModels/man/helmets/roman_cloth_hat_1.rigid_model_v2" >
+			<TINT red="0.282353" green="0.2" blue="0.031373" random_range="0.0" />
+					<SLOT name="top_crests" />
+			<SLOT name="side_crests" />
+			<SLOT name="cheeks" />
+			<SLOT name="face" />
+			<SLOT name="neck" />
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>

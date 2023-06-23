@@ -1,0 +1,6 @@
+<VARIANT_MESH>
+	<SLOT name="vambraces" >
+		<VARIANT_MESH model="VariantMeshes/_VariantModels/man/accessories/att_lb_bracers_wide.rigid_model_v2"  decal_diffuse="VariantMeshes/_VariantModels/man/patterns/blank/decal_diffuse"  decal_normal="VariantMeshes/_VariantModels/man/patterns/blank/decal_normal" >
+		</VARIANT_MESH>
+	</SLOT>
+</VARIANT_MESH>
